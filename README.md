@@ -5,12 +5,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeanGilberto01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeanGilberto01&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeanGilberto01/GeanGilberto01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeanGilberto01/GeanGilberto01/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GeanGilberto01/GeanGilberto01/output/github-contribution-grid-snake.svg">
-</picture>
 
 ### Linguagens de Marcação e Estilo 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
