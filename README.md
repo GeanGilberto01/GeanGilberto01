@@ -80,10 +80,6 @@ Facilitar a tomada de decisões com base em dados sobre hábitos culturais, dist
 
 Expor uma solução front-end moderna e envolvente, ideal para dashboards informativos e análises exploratórias.
 
-### 📌 Dicas para expansão futura:
-
-Incorporar dados dinâmicos via APIs externas, tornando a solução escalável para manutenção de grandes bases culturais.
-
 ---
 
 ## 🤝 Vamos nos conectar?
